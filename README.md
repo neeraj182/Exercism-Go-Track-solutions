@@ -11,7 +11,8 @@ Solutions for the Go track @ https://exercism.org/
 1. All the exercises are available @ https://exercism.org/ 
 2. All the solutions are mine own.
 3. To learn more about them, visit the platform, you'll get to learn and become proficient in more than 50+ languages.
-4. These are all solutions I got while solving these exercises. 
+4. Learning Go by solving exercises. 
+5. HAPPY LEARNING!!!
 
 
 
